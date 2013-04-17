@@ -1,5 +1,5 @@
 {
-    "name": "dypa/dotTpl",
+    "name": "dypa/dottpl",
     "description": "A simple pure php template engine, just for proof of concept.",
     "keywords": ["php", "template"],
     "license": "MIT",
