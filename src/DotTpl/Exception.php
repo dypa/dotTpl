@@ -1,5 +1,5 @@
 <?php
-namespace dotTpl;
+namespace DotTpl;
 
 use \Exception as phpException;
 

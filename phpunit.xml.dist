@@ -14,7 +14,7 @@
          printerClass="NyanCat\PHPunit\ResultPrinter"
 >
     <testsuites>
-        <testsuite name="SimplePHPEasyPlus Test Suite">
+        <testsuite name="DotTpl Test Suite">
             <directory>./tests</directory>
         </testsuite>
     </testsuites>
